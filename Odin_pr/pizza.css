@@ -1,0 +1,10 @@
+h1,
+p {
+    background-color:hsla(193, 34%, 43%, 0.3) ;
+    text-align: center;
+}
+
+img{
+    margin: 10px auto 20px;
+    display: block;
+}
